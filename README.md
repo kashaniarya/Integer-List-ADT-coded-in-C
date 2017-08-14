@@ -15,11 +15,11 @@ Makefile
 README
 
 Brief Description of role of each file in project:
-The main program for this project will be called Lex.java. 
-Your List ADT module will be contained in a file called List.java, 
-and will export its services to the client module Lex.java. 
+The main program for this project will be called Lex.c. 
+Your List ADT module will be contained in a file called List.c, 
+and will export its services to the client module Lex.c. 
 Each file will define one top level class, List and Lex respectively. 
 The required List operations are specified in detail below. 
-Lex.java will take two command line arguments giving the names of an input file and an output file. 
+Lex.c will take two command line arguments giving the names of an input file and an output file. 
 The input can be any text file. The output file will contain the same lines as the input 
 arranged in lexicographic (i.e. alphabetical) order.
